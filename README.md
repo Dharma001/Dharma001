@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It'me Dharma Bahadur Budhathoki</h1>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
-<img aling="right" alt="coding" width = " 500" src="h[ttps://www.quora.com/Is-e-learning-effective-for-programming](https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02)">
+<img aling="right" alt="coding" width = " 500" src="[h[ttps://www.quora.com/Is-e-learning-effective-for-programming](https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02)](https://www.lambdatest.com/newsletter/editions/issue24)">
 - 📫 How to reach me **demonplays466@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
