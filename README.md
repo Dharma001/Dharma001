@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It'me Dharma Bahadur Budhathoki</h1>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
-<img aling="right" alt="coding" width = " 500" src="[[https://www.quora.com/Is-e-learning-effective-for-programming](https://tenor.com/view/coding-gif-24625099)](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)" />
+<img aling="right" alt="coding" width = " 500" src="[[[https://www.quora.com/Is-e-learning-effective-for-programming](https://tenor.com/view/coding-gif-24625099)](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)](https://lh3.googleusercontent.com/XXY3xh9K8pxlcGYjbJ1AiH8iB2ZMqaGhW9_dIvl_MAwB-O0Il7y0LfveS7_R_pnvsW5f6WA2tQLobOZA2e8YDvIzDaAiX2GokkGs2oJV)" />
 - 📫 How to reach me **demonplays466@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
