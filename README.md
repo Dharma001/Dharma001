@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, It'me Dharma Bahadur Budhathoki</h1>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
+<img src = "https://img.freepik.com/premium-vector/programmer-coder-eats-fast-food-workplace-development-programming-coding-technologies_569013-344.jpg?size=626&ext=jpg" alt=""/>
 - 🌱 I’m currently learning **Laravel , vue**
 
 - 💬 Ask me about **vue , laravel**
