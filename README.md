@@ -8,11 +8,6 @@
       <li>💬 Ask me about <strong>Vue</strong> and <strong>Laravel</strong></li>
       <li>📫 How to reach me: <a href="mailto:demonplays466@gmail.com">demonplays466@gmail.com</a></li>
     </ul>
-    
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-      <!-- Add links or contact information here -->
-    </p>
   </div>
 </div>
 
