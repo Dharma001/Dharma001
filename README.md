@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It'me Dharma Bahadur Budhathoki</h1>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
-  <img src="https://img.freepik.com/premium-vector/programmer-coder-eats-fast-food-workplace-development-programming-coding-technologies_569013-344.jpg?size=626&ext=jpg" alt="" style="width: 400px; height: 400px;">
+  <img aling="right"  src="https://img.freepik.com/premium-vector/programmer-coder-eats-fast-food-workplace-development-programming-coding-technologies_569013-344.jpg?size=626&ext=jpg" alt="" style="width: 400px; height: 400px;">
     <ul>
       <li>🌱 I’m currently learning <strong>Laravel</strong> and <strong>Vue</strong></li>
       <li>💬 Ask me about <strong>Vue</strong> and <strong>Laravel</strong></li>
