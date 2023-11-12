@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, It'me Dharma Bahadur Budhathoki</h1>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharma001" alt="dharma001" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel , vue**
 
 - 💬 Ask me about **vue , laravel**
