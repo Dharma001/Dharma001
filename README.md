@@ -1,74 +1,74 @@
-<h1 align="center">Hi 👋, I'm Dharma Bahadur Budhathoki</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Nepal</h3>
+# 👋 Hi, I'm Dharma Bahadur Budhathoki
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6MbtKqZmK8mgYNj6/giphy.gif" alt="Coding Animation" width="400" />
-</p>
+I am a passionate Full-Stack Developer from Nepal, with one year of experience specializing in Laravel, Vue.js, MySQL, and Inertia.js. Currently, I am focusing on modern technologies such as React.js, Node.js, TypeScript, Express, Next.js, Drizzle ORM, and React Native. I actively engage in studying and building projects to enhance my skills in these areas.
 
-<p align="center">
-  I'm a Full-Stack Developer focusing on modern technologies like <strong>React.js, Node.js, TypeScript, Express, Next.js, Drizzle ORM, and React Native</strong>. I have experience deploying applications using <strong>AWS, Linux, and Docker</strong>. I'm continuously studying and building projects to enhance my skills and prepare for exciting opportunities in the tech industry.
-</p>
+## 🎓 Education
 
----
+### Islington College, Kathmandu
+**Bachelor of Science (Honours) - BSc. Hons**  
+**July 2022 - May 2024**  
+I completed my degree at Islington College, which is affiliated with London Metropolitan University, ensuring a high standard of education.
 
-### 🌱 Current Focus
-- Transitioning to modern technologies, including:
-  - React.js
-  - Node.js
-  - TypeScript
-  - Express
-  - Next.js
-  - Drizzle ORM
+## 💼 Experience
 
-### 🚀 Skills
-- **Languages & Frameworks**: 
-  - JavaScript, TypeScript, PHP, HTML, CSS
-  - Laravel, Vue.js, Inertia.js
-- **Databases**: 
-  - MySQL, Firebase
-- **DevOps**: 
-  - AWS, Docker, Linux
-- **Tools**: 
-  - Git, npm, yarn
+- **Junior Full-Stack Developer** with expertise in:
+  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  - ![Inertia.js](https://img.shields.io/badge/Inertia.js-4B5563?style=flat&logo=inertia&logoColor=white)
+  - ![REST](https://img.shields.io/badge/REST-2D2926?style=flat&logo=rest&logoColor=white)
+  - ![Postman](https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white)
 
----
+## 🚀 Current Focus
 
-### 🔗 Connect with me
-<p align="center">
-  <a href="https://twitter.com/cyogesh14" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/dharmabahadurbudhathoki" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-</p>
+I am actively studying and building projects with:
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+- ![Drizzle ORM](https://img.shields.io/badge/Drizzle-2D2926?style=flat&logo=drizzle&logoColor=white)
+- ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react-native&logoColor=black)
 
----
+## 💻 Projects
 
-### 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-</p>
+### [Shopflicker](https://shopflickernepal.com/)
+An e-commerce site for jewelry with payment integration (eSewa, Khalti) and user registration (OTP).
 
----
+### [Mero Futsal Website](https://merofutsal.com/)
+A platform providing information about futsal venues, including locations and real-time availability.
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharma001&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharma001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+### [FoodAttitude](https://food-attitude.com/)
+An e-commerce platform for cakes and pastries, offering product browsing and customization.
 
----
+### CRM Ticket Management System
+Improved customer support by adding features like graph visualizations, email notifications, and resolving bugs.
 
-### 🌟 Projects
-- **Project 1**: Description of your project (link to GitHub)
-- **Project 2**: Description of your project (link to GitHub)
-- **Project 3**: Description of your project (link to GitHub)
+### Mero Gym
+**Final Year Project (FYP)** combining a gym management dashboard and e-commerce platform.
+- [Gym Management Dashboard](http://18.143.37.194:5004/)  
+- [Login](http://57.181.16.868000/login)  
+- [Static Website](https://herculesgymcenter.netlify.app/)
 
-Feel free to reach out if you're interested in collaborating on projects or sharing ideas!
+## 📫 Connect with me:
+
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/cyogesh14)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharma-bahadur-budhathoki)
+
+## ⚙️ Technologies & Tools
+
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dharma001&show_icons=true&locale=en&layout=compact)
+
