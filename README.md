@@ -81,5 +81,4 @@ Improved customer support by adding features like graph visualizations, email no
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharma001&show_icons=true&locale=en&layout=compact" alt="dharma001" />
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dharma001&show_icons=true&locale=en&layout=compact)
 
