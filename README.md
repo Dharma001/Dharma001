@@ -30,19 +30,8 @@ I am actively studying and building projects with:
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
   - ![Inertia.js](https://img.shields.io/badge/Inertia.js-4B5563?style=flat&logo=inertia&logoColor=white) 
   - ![REST API](https://img.shields.io/badge/REST-2D2926?style=flat&logo=rest&logoColor=white) 
-  - ![Postman](https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white) 
-
-### Key Skills 🌟
-
-- **Testing Methodologies**:
-  - **Black Box Testing** 🖤: Validated outputs based on various inputs to ensure user requirements are met without delving into internal workings.
-  - **White Box Testing** 🤍: Performed thorough testing based on the internal structure and logic, allowing for early detection of issues.
-  - **PHP Unit Testing** 🧪: Created comprehensive unit tests to maintain code quality and reliability, enhancing project stability and feature integration.
-
-- **Software Development Principles**:
-  - **Object-Relational Mapping (ORM)** 📚: Gained practical experience in ORM techniques to improve database interactions and data management efficiency.
-  - **SOLID Principles** 🔑: Applied SOLID principles to develop maintainable and scalable code, laying a solid foundation for future projects.
-
+  - ![Postman](https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white)
+  - 
 As I continue my journey in software development, I am embracing new technologies to enhance my skills and adaptability. My foundational experience, particularly with **Laravel**, has equipped me with the tools to evolve and become a better developer, preparing me for the challenges ahead! 🌍✨
 
 ## 💻 Projects
