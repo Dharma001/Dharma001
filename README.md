@@ -21,44 +21,29 @@ I am actively studying and building projects with:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white)
 - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react-native&logoColor=black)
-  
-<section>
-  <h2>💼 Experience</h2>
+## 💼 Experience
 
-  <div>
-    <h3>Junior Full-Stack Developer 👨‍💻</h3>
-    <p>Over a year of hands-on experience in developing and maintaining web applications using:</p>
-    <ul>
-      <li><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel badge"> Laravel</li>
-      <li><img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue.js badge"> Vue.js</li>
-      <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL badge"> MySQL</li>
-      <li><img src="https://img.shields.io/badge/Inertia.js-4B5563?style=flat&logo=inertia&logoColor=white" alt="Inertia.js badge"> Inertia.js</li>
-      <li><img src="https://img.shields.io/badge/REST-2D2926?style=flat&logo=rest&logoColor=white" alt="REST badge"> REST API</li>
-      <li><img src="https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white" alt="Postman badge"> Postman</li>
-    </ul>
-  </div>
+- **Junior Full-Stack Developer** 👨‍💻 with over a year of experience in:
 
-  <h4>Key Skills 🌟</h4>
+  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white) 
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+  - ![Inertia.js](https://img.shields.io/badge/Inertia.js-4B5563?style=flat&logo=inertia&logoColor=white) 
+  - ![REST API](https://img.shields.io/badge/REST-2D2926?style=flat&logo=rest&logoColor=white) 
+  - ![Postman](https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white) 
 
-  <div>
-    <h5>Testing Methodologies</h5>
-    <ul>
-      <li><strong>Black Box Testing</strong> 🖤: Validated application outputs against user requirements without prior knowledge of internal structures, ensuring functional correctness.</li>
-      <li><strong>White Box Testing</strong> 🤍: Conducted testing with a focus on the internal logic of applications, allowing for early detection and resolution of bugs.</li>
-      <li><strong>PHP Unit Testing</strong> 🧪: Designed and executed unit tests to verify code functionality and maintainability, contributing to improved code quality.</li>
-    </ul>
-  </div>
+### Key Skills 🌟
 
-  <div>
-    <h5>Software Development Principles</h5>
-    <ul>
-      <li><strong>Object-Relational Mapping (ORM)</strong> 📚: Utilized ORM techniques to optimize database interactions, enhancing data management efficiency and application performance.</li>
-      <li><strong>SOLID Principles</strong> 🔑: Applied SOLID principles to create maintainable and scalable code, facilitating easier updates and feature additions.</li>
-    </ul>
-  </div>
+- **Testing Methodologies**:
+  - **Black Box Testing** 🖤: Validated outputs based on various inputs to ensure user requirements are met without delving into internal workings.
+  - **White Box Testing** 🤍: Performed thorough testing based on the internal structure and logic, allowing for early detection of issues.
+  - **PHP Unit Testing** 🧪: Created comprehensive unit tests to maintain code quality and reliability, enhancing project stability and feature integration.
 
-  <p>Through my experience as a software developer, I have developed strong analytical and problem-solving skills. My background in <strong>Laravel</strong> and related technologies has equipped me to tackle challenges effectively and adapt to new frameworks and tools. I am committed to continuous learning and improvement, ensuring I remain up-to-date with industry trends and best practices. 🌍✨</p>
-</section>
+- **Software Development Principles**:
+  - **Object-Relational Mapping (ORM)** 📚: Gained practical experience in ORM techniques to improve database interactions and data management efficiency.
+  - **SOLID Principles** 🔑: Applied SOLID principles to develop maintainable and scalable code, laying a solid foundation for future projects.
+
+As I continue my journey in software development, I am embracing new technologies to enhance my skills and adaptability. My foundational experience, particularly with **Laravel**, has equipped me with the tools to evolve and become a better developer, preparing me for the challenges ahead! 🌍✨
 
 ## 💻 Projects
 
