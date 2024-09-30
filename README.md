@@ -74,6 +74,12 @@ Improved customer support by adding features like graph visualizations, email no
     <img src="https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white" alt="Express" />
 </div>
 
-
+<h3 align="left">📈 GitHub Stats</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dharma001&show_icons=true&locale=en" alt="dharma001" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharma001&show_icons=true&locale=en&layout=compact" alt="dharma001" />
+</p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dharma001&show_icons=true&locale=en&layout=compact)
 
