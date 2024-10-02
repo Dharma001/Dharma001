@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dharma Bahadur Budhathoki
 
-I am a passionate Full-Stack Developer from Nepal, with one year of experience specializing in Laravel, Vue.js, MySQL, and Inertia.js. Currently, I am focusing on modern technologies such as React.js, Node.js, TypeScript, Express, Next.js, Drizzle ORM, and React Native. I actively engage in studying and building projects to enhance my skills in these areas.
+I am a passionate Full-Stack Developer from Nepal, with one year of experience specializing in Laravel, Vue.js, MySQL, and Inertia.js. Currently, I am focusing on modern technologies such as React.js, Node.js, TypeScript, Express, Next.js, Prisma ORM, and React Native. I actively engage in studying and building projects to enhance my skills in these areas.
 
 ## 🎓 Education
 
@@ -17,7 +17,7 @@ I am actively studying and building projects with:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-- ![Drizzle ORM](https://img.shields.io/badge/Drizzle-2D2926?style=flat&logo=drizzle&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D2926?style=flat&logo=prisma&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white)
 - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react-native&logoColor=black)
