@@ -17,7 +17,7 @@ I am actively studying and building projects with:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/Prisma-2D2926?style=flat&logo=prisma&logoColor=white)
+- [Prisma ORM](https://img.shields.io/badge/Prisma-2D2926?style=flat&logo=prisma&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FBA921?style=flat&logo=postman&logoColor=white)
 - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react-native&logoColor=black)
