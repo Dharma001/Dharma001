@@ -74,6 +74,10 @@ Improved customer support by adding features like graph visualizations, email no
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
 <h3 align="left">📈 GitHub Stats</h3>
