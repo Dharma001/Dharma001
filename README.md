@@ -23,7 +23,7 @@ I am actively studying and building projects with:
 - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react-native&logoColor=black)
 ## 💼 Experience
 
-- **Junior Full-Stack Developer** 👨‍💻 with over a year of experience in:
+- **Junior Full-Stack Developer** 👨‍💻 with over two year of experience in:
 
   - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
   - ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white) 
