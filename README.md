@@ -6,7 +6,7 @@ I am a passionate Full-Stack Developer from Nepal, with one year of experience s
 
 ### Islington College, Kathmandu
 **Bachelor of Science (Honours) - BSc. Hons**  
-**Feb 2022 - Oct 2024**  
+**Feb 2022 - Dec 2024**  
 I completed my degree at Islington College, which is affiliated with London Metropolitan University, ensuring a high standard of education.
 
 ## 🚀 Current Focus
