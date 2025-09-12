@@ -1,6 +1,6 @@
 <!-- Hero Section with Typing Animation -->
 <h1 align="center">👋 Hi, I'm Dharma Bahadur Budhathoki</h1>
-<h3 align="center">Full-Stack Developer | React · Node.js · TypeScript | Building Scalable Web Apps</h3>
+<h3 align="center">Full-Stack Developer | React · Node.js · TypeScript | Building Scalable Web Applications</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Senior+Level+Skills;Building+Modern+Web+Apps" alt="Typing SVG">
@@ -12,7 +12,7 @@
 
 ---
 
-## 💼 Core Professional Skills
+## 💼 Core Skills
 
 **Leadership | Communication | Problem-Solving | Collaboration | Agile Workflows (Expert)**
 
@@ -58,21 +58,21 @@
 ## 🎓 Education
 
 **Islington College, Kathmandu**  
-**BSc (Hons) Computing — Feb 2022 to Dec 2024**  
+BSc (Hons) Computing — Feb 2022 to Dec 2024  
 Affiliated with London Metropolitan University
 
 **Charles Darwin University, Sydney, Australia**  
-**Master in Information Technology – Software Engineering (Current)**
+Master in Information Technology – Software Engineering (Current)
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 **Junior Full-Stack Developer — 2+ Years**
 
-- Built production web apps using Laravel, Vue.js, Inertia.js, MySQL
-- Designed REST APIs and deployed applications
-- Mentored juniors and collaborated in Agile teams
+- Developed production web applications using Laravel, Vue.js, Inertia.js, MySQL  
+- Designed and implemented REST APIs, ensuring scalable and maintainable architecture  
+- Mentored junior developers and collaborated within Agile teams  
 
 **Learning & Growth:** React, Node.js, TypeScript, Next.js, Prisma ORM, AWS
 
@@ -80,19 +80,19 @@ Affiliated with London Metropolitan University
 
 ## 🏆 Achievements
 
-- 5+ full-stack apps deployed to production
-- Integrated payment gateways (eSewa, Khalti)
-- Final Year Project — Gym Management Dashboard + E-commerce
-- Improved CRM with analytics and email alerts
+- Deployed 5+ full-stack applications to production  
+- Integrated payment gateways: eSewa, Khalti  
+- Final Year Project: Gym Management Dashboard + E-commerce  
+- Enhanced CRM with analytics dashboards and automated email alerts
 
 ---
 
 ## 💻 Selected Projects
 
-- [Shopflicker](https://shopflickernepal.com/) — E-commerce Jewelry
-- [Mero Futsal](https://merofutsal.com/) — Futsal Venue Platform
-- [FoodAttitude](https://food-attitude.com/) — Cakes & Pastries E-commerce
-- CRM Ticket Management System
+- [Shopflicker](https://shopflickernepal.com/) — E-commerce Jewelry Platform  
+- [Mero Futsal](https://merofutsal.com/) — Futsal Venue Booking System  
+- [FoodAttitude](https://food-attitude.com/) — Cakes & Pastries E-commerce  
+- CRM Ticket Management System  
 - Mero Gym (FYP) — [Dashboard](http://18.143.37.194:5004/), [Static Site](https://herculesgymcenter.netlify.app/)
 
 ---
