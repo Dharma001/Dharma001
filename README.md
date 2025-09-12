@@ -1,6 +1,6 @@
 <!-- Hero Section with Typing Animation -->
 <h1 align="center">👋 Hi, I'm Dharma Bahadur Budhathoki</h1>
-<h3 align="center">Full-Stack Developer | React · Node.js · TypeScript | Building Scalable Web Applications</h3>
+<h3 align="center">Full-Stack Developer | React · Node.js · TypeScript | Building Scalable Web Apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Senior+Level+Skills;Building+Modern+Web+Apps" alt="Typing SVG">
@@ -14,44 +14,64 @@
 
 ## 💼 Core Skills
 
-**Leadership | Communication | Problem-Solving | Collaboration | Agile Workflows (Expert)**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Leadership-F05032?style=for-the-badge" /><br>Leadership
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Communication-007ACC?style=for-the-badge" /><br>Communication
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Problem-Solving-FF5733?style=for-the-badge" /><br>Problem-Solving
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Collaboration-38B2AC?style=for-the-badge" /><br>Collaboration
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Agile-8D6748?style=for-the-badge" /><br>Agile Workflows
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🖥️ Backend (Primary – JavaScript Stack)
-<img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white"> 
-<img src="https://img.shields.io/badge/TypeORM-2D2926?style=flat&logoColor=white"> 
-<img src="https://img.shields.io/badge/RESTful_API-2D2926?style=flat&logo=rest&logoColor=white">
+---
 
-### ⚙️ Backend (Adaptable)
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+## 🖥️ Tech Stack
 
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/TanStack_Query-FF5733?style=flat"> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-
-### ☁️ Cloud
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
-
-### 🧰 Tools & DevOps
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/CI/CD-007ACC?style=flat">
-<img src="https://img.shields.io/badge/Agile_Scrum-FB8B24?style=flat">
-
-### ✅ Testing / Quality
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"> 
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white"> 
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white"> 
-<img src="https://img.shields.io/badge/PHPUnit-8892BE?style=flat">
+<div align="center">
+<table>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white"><br>Node.js</td>
+  <td align="center"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"><br>Express.js</td>
+  <td align="center"><img src="https://img.shields.io/badge/TypeORM-2D2926?style=for-the-badge&logoColor=white"><br>TypeORM</td>
+  <td align="center"><img src="https://img.shields.io/badge/RESTful_API-2D2926?style=for-the-badge&logo=rest&logoColor=white"><br>REST API</td>
+  <td align="center"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"><br>Laravel</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>React</td>
+  <td align="center"><img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"><br>Vue.js</td>
+  <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><br>TypeScript</td>
+  <td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><br>Tailwind CSS</td>
+  <td align="center"><img src="https://img.shields.io/badge/TanStack_Query-FF5733?style=for-the-badge"><br>TanStack Query</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>MySQL</td>
+  <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><br>PostgreSQL</td>
+  <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>MongoDB</td>
+  <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>AWS</td>
+  <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>Docker</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>Git</td>
+  <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br>GitHub</td>
+  <td align="center"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"><br>Jest</td>
+  <td align="center"><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"><br>Mocha</td>
+  <td align="center"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"><br>Cypress</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -66,13 +86,13 @@ Master in Information Technology – Software Engineering (Current)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 **Junior Full-Stack Developer — 2+ Years**
 
 - Developed production web applications using Laravel, Vue.js, Inertia.js, MySQL  
-- Designed and implemented REST APIs, ensuring scalable and maintainable architecture  
-- Mentored junior developers and collaborated within Agile teams  
+- Designed and implemented REST APIs with scalable architecture  
+- Mentored junior developers and collaborated in Agile teams  
 
 **Learning & Growth:** React, Node.js, TypeScript, Next.js, Prisma ORM, AWS
 
@@ -83,13 +103,13 @@ Master in Information Technology – Software Engineering (Current)
 - Deployed 5+ full-stack applications to production  
 - Integrated payment gateways: eSewa, Khalti  
 - Final Year Project: Gym Management Dashboard + E-commerce  
-- Enhanced CRM with analytics dashboards and automated email alerts
+- Enhanced CRM with analytics dashboards & automated notifications
 
 ---
 
 ## 💻 Selected Projects
 
-- [Shopflicker](https://shopflickernepal.com/) — E-commerce Jewelry Platform  
+- [Shopflicker](https://shopflickernepal.com/) — E-commerce Jewelry  
 - [Mero Futsal](https://merofutsal.com/) — Futsal Venue Booking System  
 - [FoodAttitude](https://food-attitude.com/) — Cakes & Pastries E-commerce  
 - CRM Ticket Management System  
@@ -111,9 +131,9 @@ Master in Information Technology – Software Engineering (Current)
 
 <p align="center">
   <a href="https://linkedin.com/in/dharma-bahadur-budhathoki">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://x.com/cyogesh14">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
