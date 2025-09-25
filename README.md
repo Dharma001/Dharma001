@@ -88,7 +88,7 @@ Master in Information Technology – Software Engineering (Current)
 
 ## 💼 Experience
 
-**Junior Full-Stack Developer — 2+ Years**
+**Full-Stack Developer — 2+ Years**
 
 - Developed production web applications using Laravel, Vue.js, Inertia.js, MySQL  
 - Designed and implemented REST APIs with scalable architecture  
